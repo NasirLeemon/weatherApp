@@ -39,4 +39,4 @@ document.querySelector(".search-bar").addEventListener("keyup",function(event){
     }
 })
 
-weather.fetchWeather("Dhaka")
+weather.fetchWeather("Berlin");
